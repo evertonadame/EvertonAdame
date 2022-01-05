@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/EvertonAdame">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EvertonAdame&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonAdame&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonAdame&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonAdame&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="Everton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Everton-Vue" height='30' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Everton-Node" height='30' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/pX9f5PuakNat4hLjUP/giphy.gif">
+  <img align="right" alt="EvertonEstrela-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/pX9f5PuakNat4hLjUP/giphy.gif">
 </div>
   
   ##
